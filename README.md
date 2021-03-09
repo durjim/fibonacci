@@ -8,6 +8,6 @@ This repository contains two important folders:
 
 2) **fibonacci-app**: contains the client side (frontend) files for the fibonacci calculator. Its organization is that of a typical React project, save that there is no node_modules (for obvious reasons). Two files are noteworthy:
   - **src/service-caller/service-caller.js**: contains the code that performs the asynchronous calls to the backend files.
-  - **src/components/components.js**: a very simple react component that will receive input from the user. As of right now, it is missing input validation and CSS styling. 
+  - **src/components/components.js**: a very simple react component that will receive input from the user. As of right now, it is missing CSS styling. 
 
 
